@@ -1,0 +1,51 @@
+.app-bg {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(./pic.jpg);
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.side-bg {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* main {
+  flex-grow: 1;
+  text-align: center;
+  padding: 25px;
+}
+
+*/
+
+p {
+  font-weight: bolder;
+}
+
+.footer {
+  
+  padding: 2px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #cac7c7a7;
+  font-size: small;
+  text-align: center;
+}
+/*
+header {
+  min-height:300px;
+  padding: 25px;
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+} */
+
+.App {
+  text-align: center;
+}
+
+.row {
+  justify-content: center;
+  margin: 15px 0;
+}
